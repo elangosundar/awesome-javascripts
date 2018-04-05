@@ -32,3 +32,22 @@ https://edmondscommerce.github.io/page/2/
 
 https://sabe.io/tutorials/getting-started-with-vue-js  nice
 https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
+
+-------------
+https://github.com/ricardocanelas/vuejs2-examples
+
+https://github.com/mikesprague/vuejs-projects
+https://github.com/sohelamin/vue-example 
+https://github.com/vuejs/vue-hackernews 
+https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example 
+https://medium.com/js-dojo/your-questions-about-full-stack-vue-js-2-and-laravel-5-answered-d31ecaa7a07a 
+https://github.com/skyronic/vue-spa 
+https://github.com/vuejs/vue-router 
+https://github.com/axios/axios   
+https://github.com/baianat/vee-validate  
+https://www.shopify.in/partners/blog/vuejs-tutorial 
+https://github.com/shershen08/vue.js-v2-crud-application 
+https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js 
+
+https://github.com/vuejs/vue-cli  
+https://github.com/baianat/vee-validate 
