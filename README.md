@@ -8,6 +8,11 @@
 
  2. <a href="https://lzone.de/examples/PHP%20preg_match">https://lzone.de/examples/PHP%20preg_match</a>
 
+## 2. Ecomma Script
+
+1. http://www.ecma-international.org/ecma-262/5.1/
+
+
 
 ## Vue.JS
 
