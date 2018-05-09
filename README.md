@@ -12,47 +12,37 @@
 
 1. http://www.ecma-international.org/ecma-262/5.1/
 
-
-
 ## Vue.JS
 
-https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7
 
-https://medium.mybridge.co/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5
+1. https://github.com/shershen08/vue.js-v2-crud-application
+2. https://sabe.io/tutorials/getting-started-with-vue-js
+3. https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/ 
 
-https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
-
-https://www.netlify.com/
-
-https://developer.yahoo.com/weather/
-
-http://panjiachen.github.io/vue-element-admin
-
-https://github.com/vuejs/vue-hackernews-2.0
-
-https://github.com/bradbeattie/sortmatch
-
-https://edmondscommerce.github.io/page/2/
-
-
-https://sabe.io/tutorials/getting-started-with-vue-js  nice
-https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
-
--------------
-https://github.com/ricardocanelas/vuejs2-examples
-
-https://github.com/mikesprague/vuejs-projects
-https://github.com/sohelamin/vue-example 
-https://github.com/vuejs/vue-hackernews 
-https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example 
-https://medium.com/js-dojo/your-questions-about-full-stack-vue-js-2-and-laravel-5-answered-d31ecaa7a07a 
-https://github.com/skyronic/vue-spa 
-https://github.com/vuejs/vue-router 
-https://github.com/axios/axios   
-https://github.com/baianat/vee-validate  
-https://www.shopify.in/partners/blog/vuejs-tutorial 
-https://github.com/shershen08/vue.js-v2-crud-application 
-https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js 
-
-https://github.com/vuejs/vue-cli  
-https://github.com/baianat/vee-validate 
+4. https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7
+5. https://medium.mybridge.co/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5
+6. https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+7. http://panjiachen.github.io/vue-element-admin
+8. https://github.com/vuejs/vue-hackernews-2.0
+9. https://github.com/bradbeattie/sortmatch
+10. https://edmondscommerce.github.io/page/2/
+11. https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
+12. https://github.com/ricardocanelas/vuejs2-examples
+13. https://github.com/mikesprague/vuejs-projects 
+14. https://github.com/sohelamin/vue-example 
+15. https://github.com/vuejs/vue-hackernews 
+16. https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example
+17. https://medium.com/js-dojo/your-questions-about-full-stack-vue-js-2-and-laravel-5-answered-d31ecaa7a07a 
+18. https://github.com/skyronic/vue-spa 
+19. https://github.com/vuejs/vue-router https://github.com/axios/axios
+20. https://github.com/baianat/vee-validate
+21. https://www.shopify.in/partners/blog/vuejs-tutorial 
+22. https://github.com/shershen08/vue.js-v2-crud-application https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js
+23. https://github.com/vuejs/vue-cli
+24. https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
+25. https://github.com/elangovanshanthi/axios
+26. https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
+27. https://medium.freecodecamp.org/an-introduction-to-dynamic-list-rendering-in-vue-js-a70eea3e321
+28. https://alligator.io/vuejs/screenshot-ui/
+29. https://appdividend.com/2017/07/28/vuejs-tutorial-example/
+30. https://vuejs.org/v2/guide/
