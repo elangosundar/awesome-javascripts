@@ -49,10 +49,10 @@
 
 ## AngularJs 
 
-https://freecoursesite.com/angular-crash-course-for-busy-developers/
-https://freecoursesite.com/angular-full-app-with-angular-material-angularfire-ngrx/
+1. https://freecoursesite.com/angular-crash-course-for-busy-developers/ 
+2. https://freecoursesite.com/angular-full-app-with-angular-material-angularfire-ngrx/
 
 ## ReactJs
 
-https://freecoursesite.com/1-react-up-and-running-with-react-es6-and-open-source-api/
-https://freecoursesite.com/1-react-16-the-complete-guide-incl-react-router-4-redux/
+1. https://freecoursesite.com/1-react-up-and-running-with-react-es6-and-open-source-api/
+2. https://freecoursesite.com/1-react-16-the-complete-guide-incl-react-router-4-redux/
