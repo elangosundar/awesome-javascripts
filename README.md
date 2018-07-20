@@ -46,3 +46,13 @@
 28. https://alligator.io/vuejs/screenshot-ui/
 29. https://appdividend.com/2017/07/28/vuejs-tutorial-example/
 30. https://vuejs.org/v2/guide/
+
+## AngularJs 
+
+https://freecoursesite.com/angular-crash-course-for-busy-developers/
+https://freecoursesite.com/angular-full-app-with-angular-material-angularfire-ngrx/
+
+## ReactJs
+
+https://freecoursesite.com/1-react-up-and-running-with-react-es6-and-open-source-api/
+https://freecoursesite.com/1-react-16-the-complete-guide-incl-react-router-4-redux/
