@@ -56,3 +56,22 @@
 
 1. https://freecoursesite.com/1-react-up-and-running-with-react-es6-and-open-source-api/
 2. https://freecoursesite.com/1-react-16-the-complete-guide-incl-react-router-4-redux/
+
+1. https://reactjs.org/docs/react-component.html
+2. https://hackernoon.com/reactjs-component-lifecycle-methods-a-deep-dive-38275d9d13c0
+3. https://www.agiliq.com/blog/2018/05/understanding-reactjs-component-lifecycle/
+4. http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+5. https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
+6. https://www.djamware.com/post/59faec0a80aca7739224ee1f/building-crud-web-application-using-mern-stack --- Nice Tools ...
+7. https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
+8. https://github.com/ariesmcrae/reactjs-crud-boilerplate
+9. https://www.c-sharpcorner.com/article/crud-operation-using-reactnodejsexpress/
+
+## Npm package creation
+
+1. https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220 - Nice
+2. https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-npm-668ad7d363ce  - Npm package creation as simple and easy.
+3. https://medium.com/@_mariacheline/deploy-create-react-app-project-to-github-pages-2eb6deda5b89
+4. https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220
+5. https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
+
