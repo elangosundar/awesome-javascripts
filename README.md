@@ -14,6 +14,11 @@
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
 - [Example Links](#example-links)
+  - [Vue JS](#vue-js)
+  - [AngularJs](#angularJs)
+  - [ReactJs](#reactjs)
+  - [Npm Package Creation](#npm-package-creation)
+
 
 ## JavaScript References
 
@@ -31,7 +36,7 @@
 
 ## Example Links
 
-## Vue.JS
+## Vue JS
 
 
 1. https://github.com/shershen08/vue.js-v2-crud-application
@@ -86,7 +91,7 @@
 8. https://github.com/ariesmcrae/reactjs-crud-boilerplate
 9. https://www.c-sharpcorner.com/article/crud-operation-using-reactnodejsexpress/
 
-## Npm package creation
+## Npm Package Creation
 
 1. https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220 - Nice
 2. https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-npm-668ad7d363ce  - Npm package creation as simple and easy.
