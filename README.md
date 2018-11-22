@@ -74,6 +74,20 @@
 - https://github.com/ariesmcrae/reactjs-crud-boilerplate
 - https://www.c-sharpcorner.com/article/crud-operation-using-reactnodejsexpress/
 - [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
+
+
+1. https://reactjs.org/docs/react-component.html
+2. https://hackernoon.com/reactjs-component-lifecycle-methods-a-deep-dive-38275d9d13c0
+3. https://www.agiliq.com/blog/2018/05/understanding-reactjs-component-lifecycle/
+4. http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+5. https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
+6. https://www.djamware.com/post/59faec0a80aca7739224ee1f/building-crud-web-application-using-mern-stack --- Nice Tools ...
+7. https://github.com/GoThinkster/react-redux-realworld-example-app
+8. https://medium.com/@avanthikameenakshi/crud-react-express-99025f03f06e
+9. https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react
+10. https://www.c-sharpcorner.com/article/crud-operation-using-reactnodejsexpress/
+
+
 - [This is a first in the series of interview questions related with ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
 - [This quiz intends to test your understanding around ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
 - [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
